@@ -2,9 +2,9 @@ Architectures: iphoneos-arm iphoneos-arm64
 Codename: ios
 Components: main
 Date: Thu, 08 Jun 2023 19:10:51 +0000
-Description: Sileo for Checkra1n and Unc0ver
-Label: Sileo
-Origin: Sileo
+Description: Cool repo
+Label: MudSplashers Repo
+Origin: MudSplasher
 Suite: stable
 Version: 2.0
 MD5Sum:
