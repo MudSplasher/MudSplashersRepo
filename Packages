@@ -35,7 +35,7 @@ Homepage: http://tukaani.org/lzma/
 Description: Extremely Fast Compression algorithm
 Name: LZ4
 
-Package: org.coolstar.sileo
+Package: com.mudsplasher.mud
 Architecture: iphoneos-arm
 Version: 2.2.1
 Section: Packaging
