@@ -5,7 +5,7 @@ Version: 2.2.1
 Section: Packaging
 Maintainer: MudSplasher
 Depends: firmware (>= 15.0), firmware (>= 17.0) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
-Filename: ./deb/com.mudsplasher.mud_1.0-1+debug_iphoneos-arm64.deb
+Filename: ./debs/com.mudsplasher.mud_1.0-1+debug_iphoneos-arm64.deb
 Size: 2198572
 MD5sum: 233bf16cf4ac47351c946c29cfa78230
 SHA1: 379b9b2d806e79638be6db315172a3a57c4cb016
